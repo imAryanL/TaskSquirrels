@@ -1,6 +1,4 @@
-# Lab 1: Task Squirrels
-#### Z Number: Z23724811 
-Name: Aryan Lakhani
+# Task Squirrels
 
 ## Description
 Task Squirrels is a simple and interactive app designed to help parents encourage their children to complete chores. The app provides a list of tasks for users to complete. Users are required to attach photos to show that they have completed the task. After attaching the photo to a task, the app retrieves the location metadata from the photo and displays where the photo was taken on a map. This makes it easy for parents to verify that tasks have been completed as requested.
